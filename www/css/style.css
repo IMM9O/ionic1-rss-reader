@@ -1,0 +1,24 @@
+/* Empty. Add your own CSS if you like */
+.scroll-content {
+	background-image: url("../img/dark_embroidery.png"); 
+}
+
+ion-item {
+   background-image: url("../img/dark_embroidery.png");  no-repeat center;
+}
+
+
+ion-list .item
+{
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+	margin-top: 0.5px;
+	margin-bottom: 0.5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #BF9A9A;
+}
+
+
